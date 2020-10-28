@@ -38,8 +38,7 @@ Using the Bootstrap CSS Framework to create a mobile responsive portfolio, here 
 
 * Must properly utilize Bootstrap components and grid system.
 
-
-<img src = "./assets/img/portfolio.gif" width="600"/>
+![](responsive-portfolio-part-1.gif)
 
 
 ## Links
