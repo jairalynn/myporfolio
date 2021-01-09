@@ -28,3 +28,16 @@ body {
 .portfolio-pictures {
     padding-top: 25px;
 }
+
+.info {
+    text-align: center;
+}
+
+.col-sm-6 {
+    text-align: center;
+}
+
+.files{
+    text-align-last: center;
+    word-spacing: 10px;
+}
