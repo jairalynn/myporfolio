@@ -50,7 +50,7 @@ Code has been fixed and is correct according to https://validator.w3.org/
 * Must properly utilize Bootstrap components and grid system.
 
 ![Index Page](/assets/images/updatedindex.png)
-![Portfolio Page](/assets/images/updatedportfolio.png)
+![Portfolio Page](/assets/images/updatedportfoliopage.png)
 ![Contact Page](/assets/images/contactpage.png)
 
 
