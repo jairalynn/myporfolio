@@ -1,9 +1,9 @@
-# Homework 02 CSS and Bootstrap Homework: Responsive Portfolio
+## Updated Responsive Portfolio
 
 Responsive design ensures that web applications render well on a variety of devices and window or screen sizes. As a developer, you will likely be asked to create a mobile-first application or add responsive design to an existing application. 
 
 
-## Directions
+## What is included
 
 Using the Bootstrap CSS Framework to create a mobile responsive portfolio, here are some guidelines followed:
 
@@ -16,6 +16,17 @@ Using the Bootstrap CSS Framework to create a mobile responsive portfolio, here 
    * A responsive layout
 
    * Responsive images
+
+
+## What has been updated
+
+Index includes LinkedIn profile, Github and resume
+
+Portfolio page has two pieces of work added: Hike Local and Portfolio
+
+Code has been fixed and is correct according to https://validator.w3.org/
+
+
 
 
 ### Minimum Requirements
@@ -38,8 +49,9 @@ Using the Bootstrap CSS Framework to create a mobile responsive portfolio, here 
 
 * Must properly utilize Bootstrap components and grid system.
 
-
-<img src = "./assets/images/portfolio.gif"/>
+<img src = ".assets/images/updatedindex.png"/>
+<img src = ".assets/images/updatedportfoliopage.png"/>
+<img src = ".assets/images/contactpage.png"/>
 
 
 
