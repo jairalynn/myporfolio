@@ -49,9 +49,9 @@ Code has been fixed and is correct according to https://validator.w3.org/
 
 * Must properly utilize Bootstrap components and grid system.
 
-<img src = ".assets/images/updatedindex.png"/>
-<img src = ".assets/images/updatedportfoliopage.png"/>
-<img src = ".assets/images/contactpage.png"/>
+![Index Page](/assets/images/updatedindex.png)
+![Portfolio Page](/assets/images/updatedportfolio.png)
+![Contact Page](/assets/images/contactpage.png)
 
 
 
