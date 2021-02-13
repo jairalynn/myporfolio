@@ -50,7 +50,7 @@ Code has been fixed and is correct according to https://validator.w3.org/
 * Must properly utilize Bootstrap components and grid system.
 
 
-![] (updated-porfolio.gif)
+<iframe src="https://drive.google.com/file/d/1h9MfiE-c3uNCLzSUG_bXVabPKgGUDkhC/preview" width="640" height="480"></iframe>
 
 
 
