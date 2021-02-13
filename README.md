@@ -50,7 +50,7 @@ Code has been fixed and is correct according to https://validator.w3.org/
 * Must properly utilize Bootstrap components and grid system.
 
 
-![] (/assets/images/updated-porfolio.gif)
+![] (updated-porfolio.gif)
 
 
 
